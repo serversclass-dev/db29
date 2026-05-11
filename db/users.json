@@ -1,1 +1,20 @@
-{}
+{
+  "nossibaakramgmailc": {
+    "username": "nossibaakramgmailc",
+    "password": "no1042009saAK",
+    "student_type": "علمي",
+    "telegram_user_id": "8291246935",
+    "telegram_username": null,
+    "telegram_first_name": "نوسة",
+    "profile_photo_url": null,
+    "session_id": "33bb6a30-806e-40c1-beb3-b9192a3e31e0",
+    "created_at": "2026-05-10T18:52:28.490468",
+    "verified": true,
+    "last_login": "2026-05-10T18:58:35.656343",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 29
+  }
+}
