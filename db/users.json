@@ -16,5 +16,25 @@
       "islamic"
     ],
     "server_num": 29
+  },
+  "skkskdkdfj3": {
+    "username": "skkskdkdfj3",
+    "password": "Cmpank123!",
+    "student_type": "علمي",
+    "telegram_user_id": "6000572605",
+    "telegram_username": "FutureLY00",
+    "telegram_first_name": "محمد",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_78.jpg",
+    "session_id": "3881d76c-787f-40de-91d7-e23ba3aa1fe9",
+    "created_at": "2026-05-12T17:25:14.706738",
+    "verified": true,
+    "last_login": "2026-05-12T17:25:17.798812",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "english",
+      "it"
+    ],
+    "server_num": 29
   }
 }
